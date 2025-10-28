@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Michał and I'm a third-year Computer Science student at the Warsaw University of Technology.<br><br>I mainly focus on Web and Mobile application development and AI projects, but I'm continuously exploring new technologies.</p>
+<p align="left">My name is Michał and I'm a third-year Computer Science student at the Warsaw University of Technology.<br><br>I mainly focus on Web / Mobile application development and AI projects, but I'm continuously exploring new technologies.</p>
 
 ###
 
